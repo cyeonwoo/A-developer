@@ -1,2 +1,1 @@
-# A-developer
-A developer
+# A 개발자
